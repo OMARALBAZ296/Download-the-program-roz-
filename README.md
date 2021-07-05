@@ -1,1 +1,7 @@
-# Download-the-program-roz-
+# Download-the-program-(R O Z)-
+1- Download ubuntu version 20.04
+2- Download VMware
+3- Install ubuntu on VMware
+4- Download the version of noetic ros
+5- Loading the arm bag
+6- Arm control by RViz
